@@ -1,37 +1,37 @@
-# docs
+# 	Docs
 
-#### 介绍
-放置各sig组的所有文档
+说明：本SIG的内容遵循OpenHarmony的PMC管理章程 [README](/zh/pmc.md)中描述的约定
 
-#### 软件架构
-软件架构说明
+## SIG组工作目标和范围
+
+### 工作目标
+
+为SIG仓提供文档、会议纪要及其他文档提供仓库，同时作为各SIG组的索引页
+
+### 工作范围
+
+* 存放各SIG组每次例会后产生的会议纪要、会议材料，其中会议纪要模板请参考[链接](https://gitee.com/openharmony/community/tree/master/sig/sig-template/meetings)
+* 提供各SIG组链接索引
+* 为社区宣传提供可用的素材
+
+## SIG组成员
+
+### Leader
+
+- [minglonghuang ](https://gitee.com/minglonghuang)
+
+### Committers列表
+
+- [kevenNO1](https://gitee.com/kevenNO1)
+- [jony_code](https://gitee.com/jony_code)
+- [zhao_xiuxiu](https://gitee.com/zhao_xiuxiu)
+- [yu_jia_geng](https://gitee.com/yu_jia_geng)
+- [nicolaswang](https://gitee.com/nicolaswang)
+- [duzc2](https://gitee.com/duzc2)
 
 
-#### 安装教程
+### 联系方式(可选)
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+- 欢迎[订阅](https://lists.openatom.io/postorius/lists/dev.openharmony.io/)邮件列表：dev@openharmony.io
+- Slack群组：NONE
+- 微信群：NONE
