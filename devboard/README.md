@@ -76,7 +76,7 @@
 
 ### 联系方式(可选)
 
-- 欢迎[订阅]()邮件列表：[sig_devboard@openharmony.io]()
+- 欢迎[订阅](https://lists.openatom.io/postorius/lists/sig_devboard.openharmony.io/)邮件列表：[sig_devboard@openharmony.io]()
 - Slack群组：NA
-- 微信群：OH-Board-SIG
+- 微信群：OH-DevBoard-SIG
 

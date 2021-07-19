@@ -18,27 +18,22 @@
 
 ### Leader
 
-- [minglonghuang ](https://gitee.com/minglonghuang)
+- [@minglonghuang ](https://gitee.com/minglonghuang)
 
 ### Committers列表
 
-- [kevenNO1](https://gitee.com/kevenNO1)
-
-- [jony_code](https://gitee.com/jony_code)
-
-- [zhao_xiuxiu](https://gitee.com/zhao_xiuxiu)
-
-- [yu_jia_geng](https://gitee.com/yu_jia_geng)
-
-- [nicolaswang](https://gitee.com/nicolaswang)
-
-- [duzc2](https://gitee.com/duzc2)
+- [@kevenNO1](https://gitee.com/kevenNO1)
+- [@jony_code](https://gitee.com/jony_code)
+- [@zhao_xiuxiu](https://gitee.com/zhao_xiuxiu)
+- [@yu_jia_geng](https://gitee.com/yu_jia_geng)
+- [@nicolaswang](https://gitee.com/nicolaswang)
+- [@duzc2](https://gitee.com/duzc2)
 
 ###  各SIG组列表
 
 |No|SIG name|Responsibilities|SIG Leader|
 | :----- | :----- | :----- |:----|
-|1|[sig-devboard](https://gitee.com/openharmony/community/blob/master/sig/sig-devboard/sig_devboard.md)|To increase the number of third-party boards of the OpenHarmony OS, the device SIG provides easy porting guide that board manufacturers could follow to contribute their codes to the community easily. The more important thing is actively cooperating with board manufacturers to enhance the OpenHarmony ecosystem|[@likailong](https://gitee.com/kkup180)|
+|1|[sig-devboard](https://gitee.com/openharmony/community/blob/master/sig/sig-devboard/sig_devboard.md)|To increase the number of third-party boards of the OpenHarmony OS, the device SIG provides easy porting guide that board manufacturers could follow to contribute their codes to the community easily. The more important thing is actively cooperating with board manufacturers to enhance the OpenHarmony ecosystem|[@liuyang198591](https://gitee.com/liuyang198591)|
 |2|[sig-dllite-micro](https://gitee.com/openharmony/community/blob/master/sig/sig-dllite-micro/sig_dllite_micro.md)|To enable AI models to implement inference on IoT devices, IoT devices have AI capabilities.|[@chenxiaoliang](https://gitee.com/SilenChen)|
 |3|[sig-openblock](https://gitee.com/openharmony/community/blob/master/sig/sig-openblock/sig_openblock.md)|In order to extend OpenHarmony OS's use in youth programming and STEM education, OpenBlock SIG will port the runtime of the Blockly based graphical programming language to OpenHarmony OS. And support soft bus, distributed and other OpenHarmony OS capabilities.|[@dutianwei](https://gitee.com/duzc2)|
 |4|[sig-riscv](https://gitee.com/openharmony/community/blob/master/sig/sig-riscv/sig-riscv.md)|RISC-V SIG aims to build a RISC-V ecosystem for OpenHarmony, provide instructions to build software, maintain supports for RISC-V devices, and enable security capabilities like TEE on RISC-V. RISC-V SIG will promote more developers to involve in developing OpenHarmony on RISC-V.|[@yujiageng](https://gitee.com/yu_jia_geng)|

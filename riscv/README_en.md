@@ -1,7 +1,7 @@
 # SIG Template
-English | [简体中文](./sig-riscv_cn.md)
+English | [简体中文](./README.md)
 
-Note: The content of this SIG follows the convention described in OpenHarmony's PMC Management Charter [README](/zh/pmc.md).
+Note: The content of this SIG follows the convention described in OpenHarmony's PMC Management Charter [README](https://gitee.com/openharmony/community/blob/master/zh/pmc.md).
 
 ## SIG group work objectives and scope
 
