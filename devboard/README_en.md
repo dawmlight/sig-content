@@ -1,5 +1,5 @@
-# OH-BOARD-SIG
-English | [简体中文](./sig_oh_board_website.md)
+# OH-DEVBOARD-SIG
+English | [简体中文](./README.md)
 
 Note: The content of this SIG follows the convention described in OpenHarmony's PMC Management Charter [README](/zh/pmc.md).
 
@@ -31,7 +31,7 @@ Actively negotiate and cooperate with equipment manufacturers and chip manufactu
 
 ### The repository 
 - project name:
-  - oh-board-website: https://gitee.com/openharmony-sig/oh-board-website
+  - 
 
 ## SIG Members
 
@@ -39,6 +39,7 @@ Actively negotiate and cooperate with equipment manufacturers and chip manufactu
 - [liuyang198591](https://gitee.com/liuyang198591)
 
 ### Committers列表
+- [zhao_xiuxiu](https://gitee.com/zhao_xiuxiu)
 - [kefeixiong](https://gitee.com/addyke)
 - [cijliu](https://gitee.com/cijliu)
 - [Laowang-BearPi](https://gitee.com/laowangiotclub)
@@ -46,11 +47,17 @@ Actively negotiate and cooperate with equipment manufacturers and chip manufactu
 - [Leon](https://gitee.com/jahyeon)
 - [zhao_xiuxiu](https://gitee.com/zhao_xiuxiu)
 - [firefly_team](https://gitee.com/firefly_team)
+- [zianed](https://gitee.com/zianed)
+- [DennyShen](https://gitee.com/DennyShen)
+- [borne](https://gitee.com/borne)
+- [jady3356](https://gitee.com/taiyipei)
+- [zeeman_wang](https://gitee.com/zeeman_wang)
+- [dxbedu](https://gitee.com/dxbedu)
 
 ### Meetings
  - Meeting time：Monthly meeting
  - Meeting link：Tencent conference link
-
+ - Meeting minutes :
 ### Contact (optional)
 
 - Mailing list：

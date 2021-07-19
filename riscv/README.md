@@ -1,7 +1,7 @@
 # SIG组
 简体中文 | [English](./README_en.md)
 
-说明：本SIG的内容遵循OpenHarmony的PMC管理章程 [README](/zh/pmc.md)中描述的约定。
+说明：本SIG的内容遵循OpenHarmony的PMC管理章程 [README](https://gitee.com/openharmony/community/blob/master/zh/pmc.md)中描述的约定。
 
 ## SIG组工作目标和范围
 
@@ -28,11 +28,11 @@ SIG将结合蓬莱RISC-V TEE使能OpenHarmony在RISC-V场景下的安全能力�
 
 ## 任务总览
 
-了解详细任务规划请点击此链接[链接](docs/task)
+了解详细任务规划请点击此链接[链接](./task)
 ### 会议
  - 会议时间：每周二 14:00
  - 会议链接：Welink
- - 了解往期会议内容请点击此链接[链接](docs/meeting)
+ - 了解往期会议内容请点击此链接[链接](./meetings)
 
 ## 代码仓
 
@@ -70,6 +70,6 @@ SIG将结合蓬莱RISC-V TEE使能OpenHarmony在RISC-V场景下的安全能力�
 
 ### 联系方式(可选)
 
-- 邮件列表：jiageng08@iscas.ac.cn;dd_nirvana@sjtu.edu.cn;denny.shenwei@huawei.com;578567190@qq.com;likailong@huawei.com
+- 换应该[订阅](https://lists.openatom.io/postorius/lists/sig_risc_v.openharmony.io/)邮件列表：[sig_risc_v@openharmony.io]()
 - Slack群组：NA
 - 微信群：NA
