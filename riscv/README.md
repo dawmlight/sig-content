@@ -70,6 +70,7 @@ SIG将结合蓬莱RISC-V TEE使能OpenHarmony在RISC-V场景下的安全能力�
 
 ### 联系方式(可选)
 
-- 换应该[订阅](https://lists.openatom.io/postorius/lists/sig_risc_v.openharmony.io/)邮件列表：[sig_risc_v@openharmony.io]()
+- 欢迎[订阅](https://lists.openatom.io/postorius/lists/sig_risc_v.openharmony.io/)邮件列表：[sig_risc_v@openharmony.io](https://lists.openatom.io/postorius/lists/sig_risc_v.openharmony.io/)
 - Slack群组：NA
 - 微信群：NA
+
