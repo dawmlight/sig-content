@@ -1,6 +1,6 @@
 # SIG-OpenBlock
 
-English | [简体中文](./sig_openblock_cn.md)
+English | [简体中文](./README.md)
 
  
 
@@ -86,7 +86,7 @@ Actively cooperate with schools, teachers and education providers
 
 - [htq110219891](https://gitee.com/htq110219891)
 
- 
+
 ### Meetings
  - Meeting time: BiWeek Monday 10:00
  - Meeting application: [SIG-OpenBloack application](https://shimo.im/sheets/vfghbtkSIvo49soA)

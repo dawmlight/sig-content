@@ -1,6 +1,6 @@
 # sig-python 
 
-English | [简体中文](./sig-python_cn.md)
+English | [简体中文](./README.md)
 
  
 

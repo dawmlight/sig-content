@@ -1,6 +1,6 @@
 # SIG-OpenBlock
 
-简体中文 | [English](./sig_openblock.md)
+简体中文 | [English](./README_en.md)
 
  
 
@@ -67,7 +67,7 @@ OpenBlock SIG同时将协助第三方设备厂商和教育服务商构建自有�
 
   - openblock-blocks: https://gitee.com/openharmony-sig/openblock_blocks
     这个仓库用于存储可用的块和相应的与OpenHarmony集成的代码。用来支持更多的设备和OpenHarmony特定的功能。
- 
+
 
 ## SIG组成员
 
