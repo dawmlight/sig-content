@@ -41,56 +41,14 @@
 6. [sig-linkboy](https://gitee.com/openharmony/community/blob/master/sig/sig-linkboy/sig_linkboy_cn.md)
 7. [sig-systemapplication]( https://gitee.com/openharmony/community/blob/master/sig/sig-systemapplications/sig_systemapplications_cn.md)
 
-### SIG数据存放和管理方式
-* 代码的管理
-  1. 代码在[sig-manifest仓](https://gitee.com/openharmony-sig/manifest)下统一管理。
-  
-* 各SIG组代码上仓流程
+### 索引
+1. [sig维护框架](./Infrastructure/docs/manual/sig数据维护框架.md)
+2. [sig的总入口](https://gitee.com/openharmony/community/tree/master/sig)
+3. [gitee 提PR操作指导](./Infrastructure/docs/manual/gitee提pr常规操作.md)
+4. [代码/文档规范](https://gitee.com/openharmony/docs/tree/master/zh-cn/contribute)
 
-  在SIG组下新建仓库的过程，简单描述就是向 [openharmony 组织](https://gitee.com/openharmony)下的community仓提建仓的PR(pull request)，然后向[openharmony-sig组织](https://gitee.com/openharmony-sig)下新建的仓提交代码，相关的gitee操作请参考此[链接](https://gitee.com/help/articles/4128#article-header0)。
-
-  1. 首先需要保证提PR的gitee账号已经在[链接](https://dco.openharmony.io/sign/Z2l0ZWUlMkZvcGVuX2hhcm1vbnk=)中签署DCO
-  2. fork [openharmony 组织](https://gitee.com/openharmony)下的community仓
-
-    * 在sig/sig-xxxx文件夹下的sig_xxxx.md和sig_xxxx_cn.md中添加将要新建的仓库地址
-    * 在sig/sigs.json文件中找到对应的sig组名称，将需要新建的仓库地址添加到对应的sig组下
-  3. 在fork过来的仓下向community仓提PR
-    * 注意： git commit的时候要加-s参数，添加signed-off 信息，例：git commit - s  -m " xxxxxx"
-  4. 等待后台审核
-
-    * 通过则会在[openharmony-sig](https://gitee.com/openharmony-sig)组织下新增要建的仓库
-
-    * 未通过则需要检查提交PR的gitee账号是否签署DCO,git commit  的时候是否添加signed-off信息，或者提交的PR是否存在冲突。
-
-  5. 向[openharmony-sig](https://gitee.com/openharmony-sig)组织下新增的指定代码仓以提PR的形式提交代码
-
-    * 提交以后，后台会进行自动化的法务合规、cicd的扫描，扫描结果会在提交的PR下以评论的形式展现出来
-    * 如果扫描有问题，需要根据反馈进行整改，然后再重新提交，直到审核通过
-* sig 独立目录下各文件夹的使用
-
-  【docs文件夹】
-
-  1. 用来存放sig组日常产生的公共文件，例如开发板资料、芯片手册等，leader 可根据情况增加文件夹对文件进行分类管理。
-
-  【docs/task文件夹】
-
-  1. 存放本sig组的任务分解明细。
-
-  【docs/meetings文件夹】
-  
-  1. 存放本sig组的会议纪要文件
-
-  【其他文件夹】
-
-  1. leader可根据需要添加新的文件夹对其他文件进行分类管理。
-
-* 任务进度
-
-  1. 任务进度以在对应任务仓下提issue形式更新。
-  1. 作为跟踪进度的issue需要打上特定的标签，标签定为 **milestone**。
-
-* 开源协议的选择
-  1. 建议开发者使用Apache 2.0 开源协议。
+7. [开源合规检查工具](https://gitee.com/openharmony-sig/tools_oat)
+8. [对于主线已有库的维护方法](./Infrastructure/docs/manual/patch管理/针对修改已有库需求的管理方案.md)
 
 ### 联系方式(可选)
 

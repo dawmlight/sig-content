@@ -1,0 +1,7 @@
+#patch for RPi-3b
+build_support_rpi3.patch                        build
+drivers_peripheral_support_rpi3.patch           drivers/peripheral
+eudev_support_hid_multitouch.patch              third_party/eudev
+productdefine_common_support_rpi3.patch         productdefine/common
+graphic_standard                                foundation/graphic/standard
+
